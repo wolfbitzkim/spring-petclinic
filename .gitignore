@@ -1,6 +1,7 @@
 target/*
 bin/*
 build/*
+logs/*
 .gradle/*
 .settings/*
 .classpath
